@@ -1,2 +1,2 @@
 # My Projects
- This is some of the projects I'm making on my journey to learn how to code in python! Wish me luck!
+   Thanks for viewing my repo! Here, I intend to store my more small scale projects on my way to learning how to code in multiple languages!
